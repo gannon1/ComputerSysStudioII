@@ -1,2 +1,2 @@
-# ComputerSysStudioII
+# Rock, Paper, Scissors
 This project has been a very good learning experience in both programming and web development. I learned many things from the many issues I had creating this project. I learned how to create and use websockets and apply them to an online game. I also had issues making the game only display the selections after both players had selected. This issue eventually got resolved through many trials and help from other people. This project has been a great learning experience and I feel that I have learned many great skills that I can apply to later projects.
